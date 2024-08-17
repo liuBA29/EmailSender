@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc5e04d8-0d4d-498e-ae46-a24b75517e28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/script/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/script/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/script/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/script/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/script/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/script/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/script/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/script/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/script/script.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/script/script.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail01.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail01.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -63,8 +63,8 @@ def browse_file(entry, multiple=False):
 def send_emails():
     smtp_server = "smtp.gmail.com"  # Значение по умолчанию
     port = 587  # Значение по умолчанию
-    sender_email = "silvertouroffice@gmail.com"  # Значение по умолчанию
-    sender_password = "okig ggfp vuoz rhxk"  # Значение по умолчанию
+    sender_email = "youremail@gmail.com"  # Значение по умолчанию
+    sender_password = "your apps pass word"  # Значение по умолчанию
     subject = subject_entry.get()
     body = body_text.get("1.0", tk.END).strip()  # Получаем текст из текстового поля
 
